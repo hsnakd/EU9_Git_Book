@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a4a37388-2b64-4cf5-8004-e9573dca6a0b" name="Changes" comment="" />
+    <list default="true" id="a4a37388-2b64-4cf5-8004-e9573dca6a0b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +18,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
   </component>
   <component name="Git.Stage.Ui.Settings">
     <option name="ignoredFilesShown" value="true" />
@@ -35,6 +38,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/HSN/IdeaProjects/EU9_Git_Book/src/chapter_2&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   },
   &quot;keyToStringList&quot;: {
@@ -47,6 +51,11 @@
     ]
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/chapter_2" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -58,6 +67,12 @@
       <workItem from="1658532506353" duration="1835000" />
       <workItem from="1658534433936" duration="727000" />
       <workItem from="1658535231254" duration="2760000" />
+      <workItem from="1658618958400" duration="229000" />
+      <workItem from="1658619217714" duration="3397000" />
+      <workItem from="1658658482370" duration="1806000" />
+      <workItem from="1658674302264" duration="2460000" />
+      <workItem from="1658687209702" duration="1103000" />
+      <workItem from="1658736206578" duration="2823000" />
     </task>
     <task id="LOCAL-00001" summary="Created the book &#10;Wrote two pages">
       <created>1658535308606</created>
@@ -94,7 +109,35 @@
       <option name="project" value="LOCAL" />
       <updated>1658537016737</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="page 3 added 2">
+      <created>1658619144467</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1658619144467</updated>
+    </task>
+    <task id="LOCAL-00007" summary="page 3 added 2">
+      <created>1658619259078</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1658619259078</updated>
+    </task>
+    <task id="LOCAL-00008" summary="chapter 2 &#10;page 1">
+      <created>1658621222991</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1658621222991</updated>
+    </task>
+    <task id="LOCAL-00009" summary="added 2 for chapter 2">
+      <created>1658621599302</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1658621599303</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,9 +146,115 @@
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+        <entry key="5b1dcdb9-41ca-46fb-b020-525eacf4b1d6">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="6784e840-18d0-44fa-a614-01487210338b">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="TEXT_FILTER_SETTINGS">
+                <TextFilterSettings>
+                  <option name="REGEX" value="true" />
+                </TextFilterSettings>
+              </option>
+            </State>
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="BEK_SORT_TYPE" value="1" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="COLUMN_ID_WIDTH">
+                <map>
+                  <entry key="Table.Default.Author.ColumnIdWidth" value="59" />
+                  <entry key="Table.Default.Date.ColumnIdWidth" value="112" />
+                  <entry key="Table.Space.CommitStatus.ColumnIdWidth" value="112" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="ae26991c-0bf4-45e3-9b65-e0dfdaba3e93">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/master" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+            </list>
           </value>
         </entry>
       </map>
@@ -116,7 +265,9 @@
     <MESSAGE value="change 1 and 2" />
     <MESSAGE value="page 3 added" />
     <MESSAGE value="page 3 added 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="page 3 added 2" />
+    <MESSAGE value="chapter 2 &#10;page 1" />
+    <MESSAGE value="added page 2 for chapter 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="added page 2 for chapter 2" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
